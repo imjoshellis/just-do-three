@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/imjoshells/react-project-backend
+	url = https://github.com/imjoshellis/react-project-backend
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/imjoshells/react-project-frontend
+	url = https://github.com/imjoshellis/react-project-frontend
